@@ -12,7 +12,7 @@ This project demonstrates the implementation of a Decision Tree classifier to pr
 6. [Evaluating the Model](#evaluating-the-model)
 7. [How to Run](#how-to-run)
 
-## Overvie
+## Overview
 
 The project uses a Decision Tree classifier with entropy as the criterion to predict whether a student gets placed based on features like CGPA, resume score, and package offers.
 
